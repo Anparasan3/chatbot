@@ -1,0 +1,13 @@
+logs
+*.log
+coverage
+node_modules
+dist
+build
+.vscode/*
+
+/client/node_modules
+/server/node_modules
+
+
+
